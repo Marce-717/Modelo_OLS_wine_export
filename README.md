@@ -10,4 +10,4 @@ precio_12:
 precio_30:
 GDP_USA:
 
-Se considera como variable dependiente 'CANT_4c' = Cantidadad de vino chileno exportado para las 4 principales códigos arancelarios. Mezclas Tintas, Carnet Sauvignon, Mezclas Blancas, Chardonnay.
+Se considera como variable dependiente 'CANT_4c' = Cantidad de vino chileno exportado para las 4 principales códigos arancelarios. Mezclas Tintas, Carnet Sauvignon, Mezclas Blancas, Chardonnay.
